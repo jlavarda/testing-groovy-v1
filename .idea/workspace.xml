@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01297182-c9e4-488b-b7ab-1b11ed892e45" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="module-testing-02" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="module-testing-02" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="module-testing-02" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="module-testing-02" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectId" id="1YzlIxhdAX8qsC7kZgmCDo4M3NZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="JUnit.cycle_02.EmbratecTest">
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="module-testing-02" />
+      <useClassPathOnly />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cycle_01.pokemonTest.Primeiro teste nome do pokemon" type="JUnit" factoryName="JUnit">
+      <module name="module-testing-02.test" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="cycle_01" />
+      <option name="MAIN_CLASS_NAME" value="cycle_01.pokemonTest" />
+      <option name="METHOD_NAME" value="Primeiro teste nome do pokemon" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <envs>
+        <env name="ENV" value="tst" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cycle_02.EmbratecTest" type="JUnit" factoryName="JUnit">
+      <module name="module-testing-02.test" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="cycle_02" />
+      <option name="MAIN_CLASS_NAME" value="cycle_02.EmbratecTest" />
+      <option name="METHOD_NAME" value="Validar a operador" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <envs>
+        <env name="ENV" value="tst" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.cycle_01.pokemonTest.Primeiro teste nome do pokemon" />
+      <item itemvalue="JUnit.cycle_02.EmbratecTest" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01297182-c9e4-488b-b7ab-1b11ed892e45" name="Default Changelist" comment="" />
+      <created>1583953227964</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583953227964</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Project_Structure" timestamp="1583953266104">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1583953266104" />
+    <state x="137" y="19" width="1092" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584478012288">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" width="1092" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1584478012288" />
+    <state x="1526" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1600.860@1366.0.1600.860" timestamp="1584021915034" />
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1583958509070" />
+    <state x="371" y="128" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584467899807">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="371" y="128" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1584467899807" />
+    <state x="1801" y="151" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728/1366.0.1600.860@1366.0.1600.860" timestamp="1584021909707" />
+    <state x="535" y="172" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584129354849">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="535" y="172" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1366.0.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1584129354849" />
+    <state x="280" y="19" key="#cycle_01.pokemonTest.Primeiro_teste_nome_do_pokemon" timestamp="1583959576126">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="280" y="19" key="#cycle_01.pokemonTest.Primeiro_teste_nome_do_pokemon/0.0.1366.728@0.0.1366.728" timestamp="1583959576126" />
+    <state x="417" y="126" key="EnvironmentVariablesDialog" timestamp="1583958506811">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="417" y="126" key="EnvironmentVariablesDialog/0.0.1366.728@0.0.1366.728" timestamp="1583958506811" />
+    <state x="493" y="152" key="FileChooserDialogImpl" timestamp="1584467605567">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="493" y="152" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1584467605567" />
+    <state x="1943" y="180" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1600.860@1366.0.1600.860" timestamp="1584036129951" />
+    <state width="1306" height="223" key="GridCell.Tab.0.bottom" timestamp="1584541476203">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1529" height="268" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1584129423922" />
+    <state width="1306" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1584478016834" />
+    <state width="1529" height="268" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1600.860@1366.0.1600.860" timestamp="1584021916815" />
+    <state width="1306" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584541476203" />
+    <state width="1306" height="223" key="GridCell.Tab.0.center" timestamp="1584541476203">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1529" height="268" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1584129423922" />
+    <state width="1306" height="223" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1584478016834" />
+    <state width="1529" height="268" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1600.860@1366.0.1600.860" timestamp="1584021916815" />
+    <state width="1306" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584541476203" />
+    <state width="1306" height="223" key="GridCell.Tab.0.left" timestamp="1584541476203">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1529" height="268" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1584129423922" />
+    <state width="1306" height="223" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1584478016834" />
+    <state width="1529" height="268" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1600.860@1366.0.1600.860" timestamp="1584021916815" />
+    <state width="1306" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584541476203" />
+    <state width="1306" height="223" key="GridCell.Tab.0.right" timestamp="1584541476203">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1529" height="268" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1584129423922" />
+    <state width="1306" height="223" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1584478016834" />
+    <state width="1529" height="268" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1600.860@1366.0.1600.860" timestamp="1584021916815" />
+    <state width="1306" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584541476203" />
+  </component>
+</project>
